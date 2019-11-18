@@ -1,11 +1,11 @@
 # Materi ngulik front end
 
 
-Komponen utama dari front end dalam sistem enterprise adalah tampilan Web. Secara singkat bisa
+Komponen utama dari front end  adalah tampilan Web. Secara singkat bisa
 dikatakan bahwa komponent front end terdiri atas HTML dan CSS. JavaScript merupakan bahasa yang
 digunakan untuk memanipulasi komponen HTML dan CSS tersebut. Pemahaman mengenai HTML dan CSS
 merupakan kemampuan dasar dari *front end developer*. HTML dan CSS tidak mempunyai struktur
-programatik dan di kelas ini diposisikan sebagai materi referensi. Sepanjang kelas siswa akan
+programatik dan di kelas ini diposisikan sebagai materi referensi. Sepanjang ngulik akan
 berhubungan dengan HTML dan CSS. Referensi berikut ini bisa digunakan:
 
 1. [Learning HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
