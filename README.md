@@ -1,14 +1,6 @@
 # Materi ngulik front end
 
-
-Komponen utama dari front end  adalah tampilan Web. Secara singkat bisa
-dikatakan bahwa komponent front end terdiri atas HTML dan CSS. JavaScript merupakan bahasa yang
-digunakan untuk memanipulasi komponen HTML dan CSS tersebut. Pemahaman mengenai HTML dan CSS
-merupakan kemampuan dasar dari *front end developer*. HTML dan CSS tidak mempunyai struktur
-programatik dan di kelas ini diposisikan sebagai materi referensi. Sepanjang ngulik akan
-berhubungan dengan HTML dan CSS. Referensi berikut ini bisa digunakan:
-
-Pemahaman mengenai HTML dan CSS merupakan kemampuan dasar dari *front end developer*. Fundamental atau dasar front end developer adalah tampilan web, komponen front end terdiri atas HTML dan CSS, Javascript merupakan bahasa yang digunakan untuk memanimuplasi komponen HTML dan CSS tersebut
+Pemahaman mengenai HTML dan CSS merupakan kemampuan dasar dari *front end developer*. Fundamental atau dasar front end developer adalah tampilan web, komponen front end terdiri atas HTML dan CSS, dan Javascript merupakan bahasa yang digunakan untuk memanimuplasi komponen HTML dan CSS, halaman ini diposisikan sebagai materi referensi, sepanjang jalan ngulik akan terus berhubungan dengan HTML dan CSS, dan Referensi berikut ini bisa di gunakan.  
 
 1. [HTML Tutorial - W3SCHOOL](https://www.w3schools.com/html/)
 2. [CSS Tutorial - W3SCHOOL](https://www.w3schools.com/css/default.asp)
@@ -25,7 +17,17 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 4. [DOM Enlightenment](http://domenlightenment.com/) menjelaskan secara detail tentang HTML, CSS, DOM, serta bagaimana menggunakan JS untuk memanipulasi HTML, CSS, serta DOM.
 5. [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/) menjelaskan secara detail JS serta berbagai fitur ES2015+ di JavaScript.
 
-Referensi ngulik vue:
+
+
+## ngulik vuejs
+
+1. kenapa pilih vue, dan apa itu vuejs ? 
+    * [WIKIPEDIA](https://en.wikipedia.org/wiki/Vue.js) 
+    * [MEDIUM](https://medium.com/@zalab/mengapa-vuejs-menjadi-menarik-8503a7b0ecc8)
+    * [VUEJS.ID](https://vuejs.id/)
+    
+
+Ngulik vue:
 
 1. [Learn VueJS 2 Step by Step - Laracast.com](https://laracasts.com/series/learn-vue-2-step-by-step)
 2. [VueJS Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
@@ -33,17 +35,16 @@ Referensi ngulik vue:
 4. [Getting Up & Running with the Vue.js 2.0 - Sitepoint](https://www.sitepoint.com/up-and-running-vue-js-2-0/).
 
 
-### ngulik vuejs
-
-
 *Pertama : Install node dan vue cli*
 
-1. install nodejs, recommended version LTS di [nodejs](https://nodejs.org)
-    *kalau beda versi upgrade ke lts, coba lihat di - [stackoverflow](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version)
+1. install nodejs, versi yang di rekomendasikan adalah LTS atau *Long Term Support*  
+    * website resmi [nodejs](https://nodejs.org)
+    * kalau beda versi upgrade ke lts, coba lihat di - [stackoverflow](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version)
 2. install vue cli 
     * npm install -g @vue/cli 
     
 *Kedua: Urutan ngulik vue*
+
 1. VueJS - Instances
 2. VueJS - Template
 3. VueJS - Components
@@ -58,7 +59,7 @@ Referensi ngulik vue:
 12. VueJS - Mixins
 13. VueJS - Render Function
 14. VueJS - Reactive Interface
-    
+
 ```
 Latihan
 ```
