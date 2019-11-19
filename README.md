@@ -8,10 +8,15 @@ merupakan kemampuan dasar dari *front end developer*. HTML dan CSS tidak mempuny
 programatik dan di kelas ini diposisikan sebagai materi referensi. Sepanjang ngulik akan
 berhubungan dengan HTML dan CSS. Referensi berikut ini bisa digunakan:
 
-1. [Learning HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-2. [HTML Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-3. [Learn to Style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-4. [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS).
+Pemahaman mengenai HTML dan CSS merupakan kemampuan dasar dari *front end developer*. Fundamental atau dasar front end developer adalah tampilan web, komponen front end terdiri atas HTML dan CSS, Javascript merupakan bahasa yang digunakan untuk memanimuplasi komponen HTML dan CSS tersebut
+
+1. [HTML Tutorial - W3SCHOOL](https://www.w3schools.com/html/)
+2. [CSS Tutorial - W3SCHOOL](https://www.w3schools.com/css/default.asp)
+3. [JAVASCRPT - w3school](https://www.w3schools.com/js/default.asp)
+4. [Learning HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+5. [HTML Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+6. [Learn to Style HTML using CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+7. [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS).
 
 Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 1. [Referensi JavaScript untuk browser](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) untuk referensi semua statement serta konstruksi dari JavaScript dikelompokkan berdasarkan komponennya. Materi ini cocok untuk referensi jika ingin mencari *statement* atau konstruksi tertentu.
