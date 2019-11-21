@@ -66,3 +66,4 @@ Latihan
 
 1. kerjakan dari Instance sampai Reactive Interface - [sitepoint](https://www.tutorialspoint.com/vuejs/vuejs_overview.htm)
 2. vue handbook pdf - [handbook](https://drive.google.com/drive/folders/1tyTNux2-az1yn-PsT8k7OOZTcRCBIb92)
+3. vue cheat sheeet - [flaviocopes.com](https://flaviocopes.com/vue-cheat-sheet/)
